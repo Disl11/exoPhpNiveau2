@@ -8,4 +8,5 @@
 // • Afficher les articles dont le stock est inférieur à 10. 
 
 
+
 ?>
