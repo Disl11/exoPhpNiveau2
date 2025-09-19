@@ -1,5 +1,9 @@
 <?php
 
+// Calculatrice en Ligne de Commande 
+// Construisez une calculatrice qui prend deux nombres et un opérateur (+, -, *, /). 
+// • Affichez le résultat. 
+
 $a = readline("Entre votre premier valeur : ");
 $b = readline("Entre votre seconde valeur : ");
 $operateur = readline("choisir un operateur de calcule ( +,-,* ou / )  : ");

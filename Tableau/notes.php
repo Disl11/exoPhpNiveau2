@@ -28,7 +28,7 @@ print_r($eleves);
 for( $i = 0 ; $i < count($notes); $i++){
 
 $nom = $eleves[$i];
-$note =$notes[$nom];
+$note = $notes[$nom];
 $somme += $note;
 
 if($note > $moinBonneNotes){
